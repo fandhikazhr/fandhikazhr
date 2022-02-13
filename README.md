@@ -3,6 +3,6 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=fandhikazhr alt=fandhikazhr /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&include_all_commits=true)](https://github.com/fandhikazhr/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/fandhikazhr/github-readme-stats)
 ![Fandhika's GitHub stats](https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandhikazhr&layout=compact&theme=radical)](https://github.com/fandhikazhr/github-readme-stats)
