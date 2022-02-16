@@ -1,8 +1,5 @@
 
-![myavatar](https://user-images.githubusercontent.com/99522867/153881042-267a1077-0c56-4239-a47b-552f483c96aa.png)
-
-
-<h1> Hello 👋</h1>
+![banner](https://user-images.githubusercontent.com/99522867/154374482-41b8d268-aede-41b6-8e27-b208e11d8b01.jpg)
 
 [![Github Badge](https://img.shields.io/badge/-fandhikazhr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fandhikazhr/)](https://www.github.com/fandhikazhr/) <img src="https://komarev.com/ghpvc/?username=fandhikazhr&label=Profile%20views&color=0e75b6&style=flat" alt="fandhikazhr" /> [![Gmail Badge](https://img.shields.io/badge/-fandhikaazhar2302@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fandhikaazhar2302@gmail.com)](mailto:fandhikaazhar2302@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-fandhikazhr-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/fandhikazhr/)](https://www.twitter.com/fandhikazhr/)
 <p align='left'>My name is Fandhika Azhar. I am from Indonesia, living in Yogyakarta. I am one of the students at Ahmad Dahlan University, who is taking the Informatics Engineering Study Program</p>
