@@ -16,7 +16,7 @@
 ## Some of my Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&include_all_commits=true&theme=graywhite" alt="fandhikazhr" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" /></p>
 <hr>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=fandhikazhr&" alt="fandhikazhr" /></p>
