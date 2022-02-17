@@ -15,5 +15,6 @@
 
 ## Some of my Github Stats
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&include_all_commits=true&theme=github_dark)](https://github.com/fandhikazhr/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fandhikazhr&layout=compact&include_all_commits=true&theme=github_dark)](https://github.com/fandhikazhr/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&theme=github_dark" alt="fandhikazhr" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="fandhikazhr" /></p>
