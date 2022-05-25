@@ -1,4 +1,7 @@
 
+![gif](https://user-images.githubusercontent.com/99522867/170243590-0d85599d-0731-4a63-be16-2c0931b0082a.gif)
+
+
 <p align='left'>My name is Fandhika Azhar. I am from Indonesia, living in Yogyakarta. I am very interested in the field of artificial intelligence, make some code to make her love you :D </p>
 
 - 🐱‍👤 I’m currently learning **Python Programming**
