@@ -9,7 +9,11 @@
 
 </div>
 
-<p align="left">Hello 🖐 my name is Fandhika Azhar. I am from Indonesia, living in Yogyakarta. I am very interested in the field of artificial intelligence, make some code to make her love you :D </p>
+<p align="justify">Hello 🖐 my name is Fandhika Azhar. I am from Indonesia, living in Yogyakarta. Daily user of Windows Operating System for entertainment like gaming session, but for programming I choose Linux Operating System. I am very interested in the field of Artificial Intelligence.</p>
+
+<p align="center">
+  <b>Make Some Code to Make Her Love You :D</b>
+</p>
 
 - 🐱‍👤 I’m currently learning **Python Programming**
 - 📝 I regularly write articles on [https://medium.com/@fandhikaazhar](https://medium.com/@fandhikaazhar)
