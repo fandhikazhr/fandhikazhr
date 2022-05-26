@@ -27,4 +27,4 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&theme=graywhite" alt="fandhikazhr" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" />
