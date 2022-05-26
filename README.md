@@ -27,6 +27,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&theme=graywhite" alt="fandhikazhr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fandhikazhr&theme=graywhite" alt="fandhikazhr" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" /></p>
