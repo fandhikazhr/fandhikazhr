@@ -25,6 +25,6 @@
 
 ## Some of my Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&theme=graywhite" alt="fandhikazhr" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fandhikazhr&show_icons=true&locale=en&theme=graywhite" alt="fandhikazhr" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fandhikazhr&show_icons=true&locale=en&layout=compact&theme=graywhite" alt="fandhikazhr" />
