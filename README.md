@@ -15,7 +15,7 @@
   <b>Make Some Code to Make Her Love You :D</b>
 </p>
 
-- :computer: I’m currently learning **Machine Learning**
+- :computer: I’m currently learning about **Machine Learning**
 - 📝 I regularly write articles on my [Medium Stories](https://medium.com/@fandhikaazhar)
 - 📧 How to reach me **fandhikaazhar2302@gmail.com**
 
