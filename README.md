@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  [![Github Badge](https://img.shields.io/badge/-fandhikazhr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fandhikazhr/)](https://www.github.com/fandhikazhr/) <img src="https://komarev.com/ghpvc/?username=fandhikazhr&label=Profile%20views&color=0e75b6&style=flat" alt="fandhikazhr" /> [![Gmail Badge](https://img.shields.io/badge/-fandhikaazhar2302@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fandhikaazhar2302@gmail.com)](mailto:fandhikaazhar2302@gmail.com)
+  [![Github Badge](https://img.shields.io/badge/-fandhikazhr-grey?style=flat&logo=github&logoColor=white&link=https://github.com/fandhikazhr/)](https://www.github.com/fandhikazhr/) [![Gmail Badge](https://img.shields.io/badge/-fandhikaazhar2302@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:fandhikaazhar2302@gmail.com)](mailto:fandhikaazhar2302@gmail.com)
 
 </div>
 
