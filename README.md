@@ -16,7 +16,6 @@
 </p>
 
 - :computer: I’m currently learning about **Machine Learning**
-- 📝 I usually write articles on my [Medium Stories](https://medium.com/@fandhikaazhar)
 - 📧 How to reach me **fandhikaazhar2302@gmail.com**
 
 
